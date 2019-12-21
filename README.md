@@ -16,7 +16,8 @@
 <---------------------------------------------------------------------------------------------------------->
 
 ## Screenshots
-
+* ![Screenshot](https://github.com/Matthewlgrimes94/Seriously-the-greatest-day-planner/blob/master/assets/Screenshot%20(17).png)
+* ![Screenshot](https://github.com/Matthewlgrimes94/Seriously-the-greatest-day-planner/blob/master/assets/Screenshot%20(18).png)
 
 <---------------------------------------------------------------------------------------------------------->
 
