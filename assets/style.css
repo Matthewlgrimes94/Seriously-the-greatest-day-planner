@@ -1,0 +1,40 @@
+input {
+    width: 80%;
+    height: 100%;
+    font-size: x-large;
+}
+
+.largebutton {
+    width: 10%;
+    height: 100%;
+    position: absolute;
+}
+
+.section {
+    height: 11.11vh;
+}
+
+.current-time {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.active {
+    background-color: #05ac72;
+}
+
+.row {
+    height: 200% !important;
+}
+
+p {
+    text-align: center;
+}
+
+.current-block {
+    background-color: lightseagreen;
+}
+
+.hour {
+    font-size: x-large;
+}
